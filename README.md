@@ -17,5 +17,3 @@ Hello! My name is Lucas, and I'm a Flutter developer.<br><br>I started programmi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LucConstantino&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
